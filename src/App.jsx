@@ -4,6 +4,7 @@ import LPTwo from "./components/LP2";
 import LPThree from "./components/LP3";
 import LPFour from "./components/LP4";
 import LPFive from "./components/LP5";
+import LPSix from "./components/LP6";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <LPThree />
       <LPFour />
       <LPFive />
+      <LPSix />
     </div>
   );
 };
