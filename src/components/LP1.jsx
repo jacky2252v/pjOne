@@ -1,5 +1,4 @@
 import React from "react";
-import myImg from "/src/assets/myImg.jpg";
 
 const LPOne = () => {
   return (
