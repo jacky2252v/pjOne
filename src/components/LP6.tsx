@@ -12,11 +12,11 @@ const LPSix = () => {
         </div>
         <div className="flex items-center">
           <i className="font-serif">created</i>
-          <img src="/src/assets/PJ-161.png" alt="PJ-161" className="h-auto w-56 ml-12" />
+          <img src="/assets/PJ-161.png" alt="PJ-161" className="h-auto w-56 ml-12" />
         </div>
         <div className="flex items-center">
           <img
-            src="/src/assets/PJ-162.png"
+            src="/assets/PJ-162.png"
             alt="PJ-162"
             className="h-24 w-64 mr-12 mt-5"
           />

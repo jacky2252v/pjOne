@@ -32,7 +32,7 @@ const LPThree = () => {
           <p className="font-light mb-2">(2021-2022)</p>
         </div>
       </div>
-      <img src="/src/assets/PJ-13.jpg" alt="" className="h-[200px] mr-24" />
+      <img src="/assets/PJ-13.jpg" alt="" className="h-[200px] mr-24" />
     </div>
     </div>
   )

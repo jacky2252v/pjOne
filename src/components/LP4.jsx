@@ -9,7 +9,7 @@ const LPFour = () => {
 
       <div class="flex align-center m-24 mt-44">
         <div class="">
-          <img src="/src/assets/PJ-14.jpg" alt="" class="w-[40rem] h-auto z-[-1]" />
+          <img src="/assets/PJ-14.jpg" alt="" class="w-[40rem] h-auto z-[-1]" />
           <p class="w-[35rem] uppercase text-9xl font-normal tracking-wider -mt-[35rem] text-center">
             Skills & Expertise
           </p>

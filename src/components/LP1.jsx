@@ -1,5 +1,5 @@
 import React from "react";
-import myImg from "/src/assets/myImg.jpg";
+import myImg from "/assets/myImg.jpg";
 
 const LPOne = () => {
   return (
@@ -7,7 +7,7 @@ const LPOne = () => {
       <div className="flex justify-center items-center mt-32 relative">
         <img
           className="opacity-88 h-[400px] -rotate-2"
-          src="/src/assets/PJ-10.jpg"
+          src="/assets/PJ-10.jpg"
           alt="Background"
         />
         <h1

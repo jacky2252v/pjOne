@@ -16,12 +16,12 @@ const LPSeven = () => {
       <div class="flex justify-end m-12">
         <div class="flex">
           <img
-            src="/src/assets/PJ-171.jpg"
+            src="/assets/PJ-171.jpg"
             alt="PJ-171"
             class="h-[356.1px] w-[575.9] m-4 mt-6"
           />
           <img
-            src="/src/assets/PJ-172.jpg"
+            src="/assets/PJ-172.jpg"
             alt="PJ-172"
             class="h-[360.6px] w-[240.8px] -rotate-6 m-4 mt-3"
           />
