@@ -18,7 +18,7 @@ const LPEight = () => {
           <h1 className="text-4xl font-thin">hello@reallygreatsite.com</h1>
         </div>
         <img
-          src="/src/assets/PJ-18.jpg"
+          src="/assets/PJ-18.jpg"
           alt=""
           width="332.8px"
           height="499.2px"

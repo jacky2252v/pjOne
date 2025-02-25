@@ -10,7 +10,7 @@ const LPFive = () => {
       </div>
       <div className="flex justify-between items-center m-24 mb-5">
         <div>
-          <img src="/src/assets/PJ-151.jpg" alt="pj151" className="w-96 h-auto" />
+          <img src="/assets/PJ-151.jpg" alt="pj151" className="w-96 h-auto" />
           <h1 className="uppercase tracking-wider font-serif">
             Thunder and Lightning
           </h1>
@@ -20,7 +20,7 @@ const LPFive = () => {
         </div>
         <div>
           <img
-            src="/src/assets/PJ-152.jpg"
+            src="/assets/PJ-152.jpg"
             alt="pj152"
             className="w-96 h-auto mt-36"
           />
@@ -32,7 +32,7 @@ const LPFive = () => {
           </p>
         </div>
         <div>
-          <img src="/src/assets/PJ-153.jpg" alt="pj153" className="w-96 h-auto" />
+          <img src="/assets/PJ-153.jpg" alt="pj153" className="w-96 h-auto" />
           <h1 className="uppercase tracking-wider font-serif">In Bloom</h1>
           <p className="font-light">
             Street art in a skate park, located in Whelton city center

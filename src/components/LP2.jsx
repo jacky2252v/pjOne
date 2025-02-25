@@ -9,7 +9,7 @@ const LPTwo = () => {
           <h1 className="uppercase text-8xl tracking-wider">About Me</h1>
         </div>
 
-        <img src="/src/assets/PJ-11.jpg" alt="PJ-11" className="h-[250px]" />
+        <img src="/assets/PJ-11.jpg" alt="PJ-11" className="h-[250px]" />
         <p className="font-light text-xl">02</p>
       </div>
       <div className="flex justify-between mt-28">
@@ -18,7 +18,7 @@ const LPTwo = () => {
           in graphic design for the past ten years. It was only in the past
           three that I decided to focus full-time on illustrating.
         </p>
-        <img src="/src/assets/PJ-12.jpg" alt="" className="h-[250px] mr-24 -rotate-6" />
+        <img src="/assets/PJ-12.jpg" alt="" className="h-[250px] mr-24 -rotate-6" />
       </div>
     </div>
   );
